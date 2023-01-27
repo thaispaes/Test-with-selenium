@@ -134,6 +134,11 @@
                         <artifactId>serenity-core</artifactId>
                         <version>3.0.5</version>
                     </dependency>
+                    <dependency>
+                        <groupId>org.seleniumhq.selenium</groupId>
+                        <artifactId>selenium-java</artifactId>
+                        <version>4.8.0</version>
+                    </dependency>
                 </dependencies>
                 <executions>
                     <execution>
